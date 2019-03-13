@@ -5,9 +5,9 @@
 
 
 1) restore database into your system.
-database file is located into **sql** directory in the name of *aspire.sql*, inside project file.
+database file is located into **sql** directory in the name of **aspire.sql**, inside project file.
 
-2) goto *company\private\db_crendital.php*. You will see this code.
+2) goto **company\private\db_crendital.php**. You will see this code.
 
    ``` 
    <?php
