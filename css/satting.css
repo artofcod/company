@@ -1,0 +1,27 @@
+@font-face{
+	font-family: rubik;
+	src: url(../font/Rubik-Regular.ttf);
+	
+}
+*{
+	font-family: rubik;
+}
+.f-para{
+font-family: 'Open Sans', sans-serif;
+font-size: 35px;
+font-weight: bold;
+line-height: 50px;
+margin-bottom: 0px;
+}
+
+.p-four{
+font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+color: #616354;
+
+}
+
+.space-tb{
+	padding: 140px 0px;
+}
+

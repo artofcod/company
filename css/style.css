@@ -1,0 +1,38 @@
+p{
+    font-size: 15px;
+}
+.hero{
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../images/hero-1.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 750px;
+    box-shadow: -5px 8px 24px rgba(111, 114, 117, 0.6705882352941176);
+}
+.caption{
+    text-align: center;
+    padding: 10em 0px;
+}
+.caption p{
+    padding:8px 0px;
+}
+
+.caption button{
+    margin-top: 8px;
+}
+
+.About{
+    padding:60px 0px;
+    background: rgba(195, 195, 195, 0.19);
+}
+ .About .one{
+    padding-top:40px 
+}
+.logo-slot{
+    background: #ff1744
+}
+.slot-tow{
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../images/slot-two.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    box-shadow: -5px 8px 24px rgba(111, 114, 117, 0.6705882352941176);
+}
